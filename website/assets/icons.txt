@@ -1,0 +1,3 @@
+<i class="fa-brands fa-android"></i>
+<i class="fa-brands fa-apple"></i>
+<i class="fa-brands fa-windows"></i>
